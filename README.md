@@ -7,3 +7,10 @@ To prepare raw marketing data for analysis by addressing data quality issues and
 This task focuses on ensuring the dataset is clean, reliable, and ready for further marketing analysis while introducing a new **_short_title_** feature for SEO-optimized and concise product titles. I will explore, identify, and resolve common data issues using  Python (Pandas, NumPy). Additionally, I'll implement a logic to generate shorter product titles for each entry using the **_(Regular expression library)_**, ensuring they retain key information while being concise and preparing a detailed technical report.
 
 ## Data Overview 
+---
+![](Data_over.png)
+---
+![](page_2_data.png)
+---
+![](page_3_data.png)
+---
